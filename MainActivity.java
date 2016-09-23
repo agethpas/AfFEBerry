@@ -48,16 +48,8 @@ public class MainActivity extends AppCompatActivity {
         }
 
         //blablblalbalblblablalblab
-        asdfasfdas
-                fasdfhgfh
-                asf
-                        sdf
-                        fasdf
-                                afd
-
-                                asf
-                                        asfd
 
         return super.onOptionsItemSelected(item);
     }
 }
+//hububahfiuahfeihaejkfhalö af
